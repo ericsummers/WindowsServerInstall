@@ -19,14 +19,12 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 1. Launch Oracle VirtualBox Manager
 2. Click "New" to Configure VM<br/>
 <img width="838" height="540" alt="Screenshot 2026-06-21 at 3 12 33 PM" src="https://github.com/user-attachments/assets/a9a8e3b8-d205-4a10-a1c7-dc90927683c2" />
-<img width="950" height="666" alt="Screenshot 2026-06-21 at 3 13 01 PM" src="https://github.com/user-attachments/assets/ff986be3-87d9-43e5-96c2-9fa8219467ec" />
- 
 <br />
 <br />
 3. Name the VM (RTS-DC1)<br>
 4. Select a Location to Save the VM File<br>
 5. Mount the Downloaded ISO file of Windows Server 2025
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 Enter the number of passes: <br/>
