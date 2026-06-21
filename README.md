@@ -1,7 +1,7 @@
 <h1>Windows Server 2025 Install</h1>
 
 <h2>Description</h2>
-Project consists of configuring and creating a virtual machine using Oracle VirtualBox software, installing Windows Server 2025 DataCenter Eval operating system, and configuring any post-innstallation tasks through Windows Server Manager.
+Project consists of configuring and creating a virtual machine (VM) using Oracle VirtualBox software, installing Windows Server 2025 DataCenter Eval operating system, and configuring any initial post-innstallation tasks through Windows Server Manager.
 <br />
 
 
@@ -16,7 +16,7 @@ Project consists of configuring and creating a virtual machine using Oracle Virt
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launch Oracle VirtualBox Manager and Click "New" to Configure VM<br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
