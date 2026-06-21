@@ -11,7 +11,7 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 <h2>Environments Used </h2>
 
-- <b>Windows Servevr 2025 DataCenter Eval (Desktop Experience) version</b>
+- <b>Windows Servevr 2025 DataCenter Evaluation Edition (Desktop Experience)</b>
 
 <h2>Program walk-through:</h2>
 
