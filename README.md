@@ -42,8 +42,11 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <img width="977" height="493" alt="Screenshot 2026-06-24 at 8 38 34 PM" src="https://github.com/user-attachments/assets/0441adac-588e-457b-b8b1-2471914502f3" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h3>Start the Virtual Machine:</h3>
+
+8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":</br>
+<img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
 <br />
 <br />
 Sanitization complete:  <br/>
