@@ -34,7 +34,7 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <img width="975" height="514" alt="Screenshot 2026-06-24 at 8 27 45 PM" src="https://github.com/user-attachments/assets/556dc7f8-961b-43eb-8315-b674e56cdf96" />
 <br />
 <br />
-6. Configure Hardware Resources of VM as such:<br/>
+6. Specify Virtual Hardware Resources of VM:<br/>
 <img width="978" height="516" alt="Screenshot 2026-06-24 at 8 34 17 PM" src="https://github.com/user-attachments/assets/43a5450f-e5f0-4fa1-9b5d-9a973f2ce32b" />
 <br />
 <br />
