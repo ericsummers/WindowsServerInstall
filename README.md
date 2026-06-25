@@ -18,19 +18,19 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <h3>Creating the Virtual Machine (VM)</h3>
 
 1. Launch Oracle VirtualBox Manager
-2. Click "New" to Configure VM<br/>
+2. Click "New" to Configure VM:<br/>
 <img width="838" height="540" alt="Screenshot 2026-06-21 at 3 12 33 PM" src="https://github.com/user-attachments/assets/a9a8e3b8-d205-4a10-a1c7-dc90927683c2" />
 <br />
 <br />
-3. Name the VM (Corp-DC1)<br>
+3. Name the VM (Corp-DC1):<br>
 <img width="978" height="482" alt="Screenshot 2026-06-24 at 8 23 25 PM" src="https://github.com/user-attachments/assets/1f491abe-6670-4e4f-9f20-ff947f5011cb" />
 <br />
 <br />
-4. Select a Location to Save the VM File<br>
+4. Select a Location to Save the VM File:<br>
 <img width="973" height="485" alt="Screenshot 2026-06-24 at 8 23 57 PM" src="https://github.com/user-attachments/assets/be02554b-28c9-47d4-89d7-269c9e2b8064" />
 <br />
 <br />
-5. Mount the Downloaded ISO file of Windows Server 2025 and Configure:
+5. Mount the Downloaded ISO file of Windows Server 2025 and Configure:</br>
 <img width="975" height="514" alt="Screenshot 2026-06-24 at 8 27 45 PM" src="https://github.com/user-attachments/assets/556dc7f8-961b-43eb-8315-b674e56cdf96" />
 <br />
 <br />
@@ -38,36 +38,41 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <img width="978" height="516" alt="Screenshot 2026-06-24 at 8 34 17 PM" src="https://github.com/user-attachments/assets/43a5450f-e5f0-4fa1-9b5d-9a973f2ce32b" />
 <br />
 <br />
-7. Confirm the Configuration and Click "Finish" <br/>
+7. Confirm the Configuration and Click "Finish":<br/>
 <img width="977" height="493" alt="Screenshot 2026-06-24 at 8 38 34 PM" src="https://github.com/user-attachments/assets/0441adac-588e-457b-b8b1-2471914502f3" />
 <br />
 <br />
 
-<h3>Start the Virtual Machine:</h3>
+<h3>Start the Virtual Machine</h3>
 
-8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":
+8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":</br>
 <img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
 <br />
 <br />
 
 <h3>PART 2: Install the Operating System (Windows Server 2025</h3>
 
-9. Select a Language and Click "Next"</br>
+9. Select a Language and Click "Next":</br>
 <img width="724" height="753" alt="Screenshot 2026-06-24 at 8 56 22 PM" src="https://github.com/user-attachments/assets/1fff80cc-06db-4490-a69c-4832fc832403" />
 <br />
 <br />
 
-10. Select a Keyboard Layout and Click "Next"</br>
+10. Select a Keyboard Layout and Click "Next":</br>
 <img width="720" height="755" alt="Screenshot 2026-06-24 at 8 57 05 PM" src="https://github.com/user-attachments/assets/e90598e3-9304-46ef-bf16-d66a60199172" />
 <br />
 <br />
 
-11. We Want a Clean Install. Select "Install Windows Server, Check the Box to Agree, and Click "Next"</br>
+11. We Want a Clean Install. Select "Install Windows Server, Check the Box to Agree, and Click "Next":</br>
 <img width="722" height="755" alt="Screenshot 2026-06-24 at 8 59 46 PM" src="https://github.com/user-attachments/assets/f169a4d6-e056-4193-8c26-d4e2000de29f" />
 <br />
 <br />
 
-12. Select the OS Version: :Windows Server 2025 Datacenter Evaluation (Desktop Experience), then Click "Next"</br>
+12. Select the OS Version: :Windows Server 2025 Datacenter Evaluation (Desktop Experience), then Click "Next":</br>
+<img width="717" height="755" alt="Screenshot 2026-06-24 at 9 01 51 PM" src="https://github.com/user-attachments/assets/68470fec-3069-4e46-9871-c1f985a3da28" />
+<br />
+<br />
+
+13. Select the OS Version: :Windows Server 2025 Datacenter Evaluation (Desktop Experience), then Click "Next":</br>
 <img width="717" height="755" alt="Screenshot 2026-06-24 at 9 01 51 PM" src="https://github.com/user-attachments/assets/68470fec-3069-4e46-9871-c1f985a3da28" />
 <br />
 <br />
