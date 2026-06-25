@@ -57,11 +57,20 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-9. Select a Keyboard Layout and Click "Next"</br>
+10. Select a Keyboard Layout and Click "Next"</br>
 <img width="720" height="755" alt="Screenshot 2026-06-24 at 8 57 05 PM" src="https://github.com/user-attachments/assets/e90598e3-9304-46ef-bf16-d66a60199172" />
 <br />
 <br />
 
+11. We Want a Clean Install. Select "Install Windows Server, Check the Box to Agree, and Click "Next"</br>
+<img width="722" height="755" alt="Screenshot 2026-06-24 at 8 59 46 PM" src="https://github.com/user-attachments/assets/f169a4d6-e056-4193-8c26-d4e2000de29f" />
+<br />
+<br />
+
+12. Select the OS Version: :Windows Server 2025 Datacenter Evaluation (Desktop Experience), then Click "Next"</br>
+<img width="717" height="755" alt="Screenshot 2026-06-24 at 9 01 51 PM" src="https://github.com/user-attachments/assets/68470fec-3069-4e46-9871-c1f985a3da28" />
+<br />
+<br />
 <!--
  ```diff
 - text in red
