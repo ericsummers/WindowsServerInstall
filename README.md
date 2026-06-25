@@ -86,6 +86,14 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <img width="720" height="756" alt="Screenshot 2026-06-24 at 9 11 35 PM" src="https://github.com/user-attachments/assets/ac3acc31-7ba7-4dc7-901c-547f2ca16b7c" />
 <br />
 <br />
+
+
+15. Once Installed, Create an Administrator Account Password for Local Administrator Account and Click "Finish":</br>
+<img width="798" height="671" alt="Screenshot 2026-06-24 at 9 29 58 PM" src="https://github.com/user-attachments/assets/73798df0-9f62-4b20-bb0e-dc5e0599c594" />
+<br />
+<br />
+
+
 <!--
  ```diff
 - text in red
