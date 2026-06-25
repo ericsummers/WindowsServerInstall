@@ -53,7 +53,12 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <h3>PART 2: Install the Operating System (Windows Server 2025</h3>
 
 9. Select a Language and Click "Next"</br>
-<img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
+<img width="724" height="753" alt="Screenshot 2026-06-24 at 8 56 22 PM" src="https://github.com/user-attachments/assets/1fff80cc-06db-4490-a69c-4832fc832403" />
+<br />
+<br />
+
+9. Select a Keyboard Layout and Click "Next"</br>
+<img width="720" height="755" alt="Screenshot 2026-06-24 at 8 57 05 PM" src="https://github.com/user-attachments/assets/e90598e3-9304-46ef-bf16-d66a60199172" />
 <br />
 <br />
 
