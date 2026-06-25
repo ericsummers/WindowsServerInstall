@@ -15,20 +15,27 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 <h2>Program walk-through:</h2>
 
+<h3>Creating the Virtual Machine (VM)</h3>
 
 1. Launch Oracle VirtualBox Manager
 2. Click "New" to Configure VM<br/>
 <img width="838" height="540" alt="Screenshot 2026-06-21 at 3 12 33 PM" src="https://github.com/user-attachments/assets/a9a8e3b8-d205-4a10-a1c7-dc90927683c2" />
 <br />
 <br />
-3. Name the VM (RTS-DC1)<br>
+3. Name the VM (Corp-DC1)<br>
+<img width="978" height="482" alt="Screenshot 2026-06-24 at 8 23 25 PM" src="https://github.com/user-attachments/assets/1f491abe-6670-4e4f-9f20-ff947f5011cb" />
+<br />
+<br />
 4. Select a Location to Save the VM File<br>
-5. Mount the Downloaded ISO file of Windows Server 2025
-
+<img width="973" height="485" alt="Screenshot 2026-06-24 at 8 23 57 PM" src="https://github.com/user-attachments/assets/be02554b-28c9-47d4-89d7-269c9e2b8064" />
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5. Mount the Downloaded ISO file of Windows Server 2025 and Configure:
+<img width="975" height="514" alt="Screenshot 2026-06-24 at 8 27 45 PM" src="https://github.com/user-attachments/assets/556dc7f8-961b-43eb-8315-b674e56cdf96" />
+<br />
+<br />
+6. Configure Hardware Resources of VM as such:<br/>
+<img width="978" height="516" alt="Screenshot 2026-06-24 at 8 34 17 PM" src="https://github.com/user-attachments/assets/43a5450f-e5f0-4fa1-9b5d-9a973f2ce32b" />
 <br />
 <br />
 Confirm your selection:  <br/>
