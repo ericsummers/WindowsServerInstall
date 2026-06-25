@@ -38,8 +38,8 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <img width="978" height="516" alt="Screenshot 2026-06-24 at 8 34 17 PM" src="https://github.com/user-attachments/assets/43a5450f-e5f0-4fa1-9b5d-9a973f2ce32b" />
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. Confirm the Configuration and Click "Finish" <br/>
+<img width="977" height="493" alt="Screenshot 2026-06-24 at 8 38 34 PM" src="https://github.com/user-attachments/assets/0441adac-588e-457b-b8b1-2471914502f3" />
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
