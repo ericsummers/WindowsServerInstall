@@ -45,17 +45,17 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 <h3>Start the Virtual Machine:</h3>
 
-8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":</br>
+8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":
 <img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h3>PART 2: Install the Operating System (Windows Server 2025</h3>
+
+9. Select a Language and Click "Next"</br>
+<img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
