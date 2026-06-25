@@ -96,9 +96,13 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-18. Accept the Microsoft Data Prompt.</br>
+18. Accept the Microsoft Prompt:</br>
 <img width="520" height="547" alt="Screenshot 2026-06-24 at 9 46 35 PM" src="https://github.com/user-attachments/assets/9678f949-8ad9-4c50-af98-449eee77c212" />
+<br />
+<br />
 
+20. Windows Server 2025 is Now Installed on Corp-DC1 using Oracle VirtualBox Hypervisor:
+<img width="508" height="535" alt="Screenshot 2026-06-24 at 9 51 09 PM" src="https://github.com/user-attachments/assets/ac636178-2da0-46b7-9a98-f86c2228429f" />
 <br />
 <br />
 
