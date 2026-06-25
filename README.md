@@ -13,9 +13,7 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 - <b>Windows Servevr 2025 DataCenter Evaluation Edition (Desktop Experience)</b>
 
-<h2>Program walk-through:</h2>
-
-<h3>Creating the Virtual Machine (VM)</h3>
+<h2>PART 1: Creating the Virtual Machine (VM)</h2>
 
 1. Launch Oracle VirtualBox Manager
 2. Click "New" to Configure VM:<br/>
@@ -43,14 +41,14 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-<h3>Start the Virtual Machine</h3>
+<h2>PART 2: Starting the Virtual Machine</h2>
 
 8. Right-Click the VM (Corp-DC1) in VirtualBox Manager and Select "Start" > "Start With GUI":</br>
 <img width="839" height="542" alt="Screenshot 2026-06-24 at 8 43 58 PM" src="https://github.com/user-attachments/assets/4759770f-66f7-4331-a44e-ffc8f4aa5310" />
 <br />
 <br />
 
-<h3>PART 2: Install the Operating System (Windows Server 2025</h3>
+<h2>PART 3: Install the Operating System (Windows Server 2025</h2>
 
 9. Select a Language and Click "Next":</br>
 <img width="724" height="753" alt="Screenshot 2026-06-24 at 8 56 22 PM" src="https://github.com/user-attachments/assets/1fff80cc-06db-4490-a69c-4832fc832403" />
@@ -98,7 +96,8 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-<h2>Post-Installation Tasks/h2>
+<h2>PART 4: Post-Installation Tasks</h2>
+
 
 <!--
  ```diff
