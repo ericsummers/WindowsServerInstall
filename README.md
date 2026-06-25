@@ -88,11 +88,17 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 
 
-15. Once Installed, Create an Administrator Account Password for Local Administrator Account and Click "Finish":</br>
+16. Once Installed, Create an Administrator Account Password for Local Administrator Account and Click "Finish":</br>
 <img width="798" height="671" alt="Screenshot 2026-06-24 at 9 29 58 PM" src="https://github.com/user-attachments/assets/73798df0-9f62-4b20-bb0e-dc5e0599c594" />
 <br />
 <br />
 
+17. Sign in With Administrator Account Password Created in Step 16:</br>
+<img width="512" height="548" alt="Screenshot 2026-06-24 at 9 34 28 PM" src="https://github.com/user-attachments/assets/4fc65077-e86d-4ba1-af18-957b77870469" />
+<br />
+<br />
+
+<h2>Post-Installation Tasks/h2>
 
 <!--
  ```diff
