@@ -77,6 +77,11 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
+14. Install Windows Server 2025 on the 50GB Virtual Hard Disk Created During Initial Setup of the VM. Select "Next"</br>
+<img width="726" height="758" alt="Screenshot 2026-06-24 at 9 08 58 PM" src="https://github.com/user-attachments/assets/52bade53-8154-4b55-aa9d-a453c1436d51" />
+<br />
+<br />
+
 
 <!--
  ```diff
