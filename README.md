@@ -48,7 +48,7 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-<h2>PART 3: Install the Operating System (Windows Server 2025</h2>
+<h2>PART 3: Install the Operating System (Windows Server 2025)</h2>
 
 9. Select a Language and Click "Next":</br>
 <img width="724" height="753" alt="Screenshot 2026-06-24 at 8 56 22 PM" src="https://github.com/user-attachments/assets/1fff80cc-06db-4490-a69c-4832fc832403" />
