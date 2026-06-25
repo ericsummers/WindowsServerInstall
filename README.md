@@ -72,10 +72,12 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-13. Select the OS Version: :Windows Server 2025 Datacenter Evaluation (Desktop Experience), then Click "Next":</br>
-<img width="717" height="755" alt="Screenshot 2026-06-24 at 9 01 51 PM" src="https://github.com/user-attachments/assets/68470fec-3069-4e46-9871-c1f985a3da28" />
+13. Accept the License Terms Agreement:</br>
+<img width="727" height="760" alt="Screenshot 2026-06-24 at 9 06 31 PM" src="https://github.com/user-attachments/assets/3c4e07b6-0eda-4ad3-ba80-03e7144f5461" />
 <br />
 <br />
+
+
 <!--
  ```diff
 - text in red
