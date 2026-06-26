@@ -112,16 +112,17 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 21. In the Server Manager Program, "Select Local Server":</br>
 22. Check the "Product ID" to Verify Windows is Activated</br>
-<img width="953" height="812" alt="Screenshot 2026-06-25 at 7 34 16 PM" src="https://github.com/user-attachments/assets/a718dcbb-f3e4-4c49-976d-8cce2075c238" />
+<img width="1020" height="823" alt="Screenshot 2026-06-25 at 7 59 45 PM" src="https://github.com/user-attachments/assets/c323132e-dabd-4f54-bf44-561a25846764" />
 <br />
 <br />
 
-22. In the System Properties Box, Click "Change":</br>
+23. Click the Computer Name</br>
+24. In the System Properties Box, Click "Change":</br>
 <img width="948" height="810" alt="Screenshot 2026-06-25 at 7 37 16 PM" src="https://github.com/user-attachments/assets/4d6bdb79-a11e-46f8-acb1-e6db94ce8add" />
 <br />
 <br />
 
-23. Change the name to CORP-DC1 and Click "OK" - **RESTART IS REQUIRED**:</br>
+25. Change the name to CORP-DC1 and Click "OK" - **RESTART IS REQUIRED**:</br>
 <img width="1021" height="820" alt="Screenshot 2026-06-25 at 7 41 12 PM" src="https://github.com/user-attachments/assets/144a2966-41bd-4785-87d8-58b1a9c42351" />
 <br />
 <br />
