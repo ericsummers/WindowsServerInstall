@@ -115,7 +115,7 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-21. In the System Properties Box, "Change":</br>
+21. In the System Properties Box, Click "Change":</br>
 <img width="948" height="810" alt="Screenshot 2026-06-25 at 7 37 16 PM" src="https://github.com/user-attachments/assets/4d6bdb79-a11e-46f8-acb1-e6db94ce8add" />
 <br />
 <br />
