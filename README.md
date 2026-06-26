@@ -110,8 +110,8 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 
 <h3>Check Activation Status and Rename Computer</h3>
 
-21. In the Server Manager Program, "Select Local Server":</br>
-22. Check the "Product ID" to Verify Windows is Activated</br>
+21. In the Server Manager Program, Select "Local Server":</br>
+22. Check the "Product ID" to Verify Windows is Activated:</br>
 <img width="1020" height="823" alt="Screenshot 2026-06-25 at 7 59 45 PM" src="https://github.com/user-attachments/assets/c323132e-dabd-4f54-bf44-561a25846764" />
 <br />
 <br />
