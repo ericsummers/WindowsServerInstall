@@ -1,7 +1,7 @@
-<h1>Windows Server 2025 Install</h1>
+<h1>Oracle VM - Windows Server Install</h1>
 
 <h2>Description</h2>
-Project consists of configuring and creating a virtual machine (VM) using Oracle VirtualBox software, installing Windows Server 2025 DataCenter Eval operating system, and configuring any initial post-innstallation tasks through Windows Server Manager.
+Project consists of configuring and creating a virtual machine (VM) using Oracle VirtualBox software and installing Windows Server 2025 DataCenter Evaluation (Desktop Experience) OS.
 <br />
 
 
@@ -106,26 +106,6 @@ Project consists of configuring and creating a virtual machine (VM) using Oracle
 <br />
 <br />
 
-<h2>PART 4: Post-Installation Tasks</h2>
-
-<h3>Check Activation Status and Rename Computer</h3>
-
-21. In the Server Manager Program, Select "Local Server":</br>
-22. Check the "Product ID" to Verify Windows is Activated:</br>
-<img width="1020" height="823" alt="Screenshot 2026-06-25 at 7 59 45 PM" src="https://github.com/user-attachments/assets/c323132e-dabd-4f54-bf44-561a25846764" />
-<br />
-<br />
-
-23. Click the Computer Name</br>
-24. In the System Properties Box, Click "Change":</br>
-<img width="948" height="810" alt="Screenshot 2026-06-25 at 7 37 16 PM" src="https://github.com/user-attachments/assets/4d6bdb79-a11e-46f8-acb1-e6db94ce8add" />
-<br />
-<br />
-
-25. Change the name to CORP-DC1 and Click "OK" - **RESTART IS REQUIRED**:</br>
-<img width="1021" height="820" alt="Screenshot 2026-06-25 at 7 41 12 PM" src="https://github.com/user-attachments/assets/144a2966-41bd-4785-87d8-58b1a9c42351" />
-<br />
-<br />
 <!--
  ```diff
 - text in red
